@@ -4,7 +4,7 @@
  * @file
  * Handles incoming requests to fire off regularly-scheduled tasks (cron jobs).
  * test   
- * Issue 1 fixed commit 3
+ * Issue 1 fixed commit 3, 4
  */
 
 /**
