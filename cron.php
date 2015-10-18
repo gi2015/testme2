@@ -1,14 +1,18 @@
 <?php
 
 /**
+** === merge to master from stash and fix a conflict
+ * HEAD
  * Commit 2 after stash
  * Commit after stash and some fix*
+* new pages-feature branch B2C1
+*  pages-feature
  *Branch 1 , commit 1, commit 2
  * @file
  * Handles incoming requests to fire off regularly-scheduled tasks (cron jobs).
  * test   
  * Issue 1 fixed commit 3, 4
- * >>>>>meged master to my issue branch (pulled master work into my branch)=======
+ * merged master to my issue branch (pulled master work into my branch)
  * test   commit MC3
  * HOTFIX work HFXC1
  * MC4
